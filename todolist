@@ -1,0 +1,30 @@
+Langkah pembuatan PPDB Web
+
+1. Tentukan fitur dan batasan
+    daftar akun
+    formulir pendaftaran siswa
+    upload dokumen untuk melengkapi
+    seleksi oleh pihak sekolah
+    pengumuman
+2. Analisis Kebutuhan
+    fungsional: Semua di atas
+    Non fungsional: Keamanan, performa, UI/UX yang baik
+
+3. Pembuatan Flowchart & Wireframe
+    flowchart (done)
+    antarmuka pengguna (not yet)
+
+4. Tahap pengembangan
+    Myth auth
+    form pendaftaran
+    Kelengkapan berkas (upload)
+    sistem seleksi oleh sekolah
+    cetak bukti siswa diterima
+    Dashboard admin
+    pengumuman
+    Cetak data siswa keseluruhan
+
+5. Testing
+    Uji Coba (blackbox)
+    unit testing
+    
